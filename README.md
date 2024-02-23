@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Michael Varacalli 
 
 - 🎓 B.Eng and M.A.Sc. in Mechanical Engineering
 - ✈️ Have 4 publications in engineering journals in aerospace research
