@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 B.Eng and M.A.Sc. in Mechanical Engineering
-- ✈️ Published 4 publications in Engineering journals in aerospace research
+- ✈️ Have 4 publications in engineering journals in aerospace research
 
 <!--
 **michael-varacalli/michael-varacalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
