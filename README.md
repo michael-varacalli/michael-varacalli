@@ -3,8 +3,8 @@
 - 🎓 B.Eng and M.A.Sc. in Mechanical Engineering
 - ✈️ Have 4 publications in engineering journals in aerospace research
 
-  #### 💻 Computational Fluids Dynamics Masters Project:
-  - Wrote post-processing scripts for Star-CCM+ in MATLAB to process and visualize data for several engineering publications
+  #### 💻 Computational Fluids Dynamics (CFD) Masters Project:
+  - Wrote post-processing scripts for Star-CCM+ CFD simulations in MATLAB to process and visualize data for several engineering publications
 
 
 <!--
