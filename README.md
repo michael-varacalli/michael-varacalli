@@ -3,9 +3,9 @@
 - 🎓 B.Eng and M.A.Sc. in Mechanical Engineering
 - ✈️ Have 4 publications in engineering journals in aerospace research
 
-  #### 💻 Computational Fluids Dynamics (CFD) Masters Project:
-  - Conduct research focused on the design of plasma actuators as a method of flow control and completed several parametric studies to achieve four publications in engineering journals demonstrating knowledge of computational fluid dynamics, ability to perform fluid mechanics analysis, and write technical reports.
-  - Write MATLAB post processing scripts for results obtained from Star-CCM+ simulations and conduct detailed aerodynamic analysis of boundary layer flow properties such as velocity disturbance, shear stress, vorticity, and vortex identification methods such as Q-criterion.
+#### 💻 Computational Fluids Dynamics (CFD) Masters Project:
+- Conduct research focused on the design of plasma actuators as a method of flow control and completed several parametric studies to achieve four publications in engineering journals demonstrating knowledge of computational fluid dynamics, ability to perform fluid mechanics analysis, and write technical reports.
+- Write MATLAB post processing scripts for results obtained from Star-CCM+ simulations and conduct detailed aerodynamic analysis of boundary layer flow properties such as velocity disturbance, shear stress, vorticity, and vortex identification methods such as Q-criterion.
 
 
 
