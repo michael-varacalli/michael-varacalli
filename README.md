@@ -3,6 +3,10 @@
 - 🎓 B.Eng and M.A.Sc. in Mechanical Engineering
 - ✈️ Have 4 publications in engineering journals in aerospace research
 
+  #### 💻 Computational Fluids Dynamics Masters Project:
+  - Wrote post-processing scripts for Star-CCM+ in MATLAB to process and visualize data for several engineering publications
+
+
 <!--
 **michael-varacalli/michael-varacalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
